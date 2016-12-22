@@ -4,7 +4,7 @@ html {
   position: relative; }
 
 body {
-  background-color: #ffc966;
+  background-color: #e77d68;
   margin: 45px; }
 
 a:focus, a:hover, a:visited {
@@ -14,7 +14,7 @@ a:focus, a:hover, a:visited {
   box-sizing: border-box;
   margin: 40px auto 0px auto;
   max-width: 300px;
-  position: fixed; }
+  position: relative; }
   .southparkbox img {
     position: relative; }
 

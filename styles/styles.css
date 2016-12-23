@@ -4,8 +4,8 @@ html {
   position: relative; }
 
 body {
-  background-color: #52b788;
-  margin: 45px; }
+  background-color: #e05263;
+  margin: 45px auto 0px auto; }
 
 a:focus, a:hover, a:visited {
   text-decoration: none; }
@@ -57,7 +57,19 @@ h3 {
       color: green; }
 
 footer {
-  box-sizing: border-box;
-  padding: 16px auto; }
+  background-color: #e06d7b;
+  margin: 42px auto 0px auto;
+  padding: auto;
+  height: 42px;
+  padding-top: 12px;
+  padding-bottom: 12px; }
+  footer a {
+    font-size: 15px;
+    font-weight: 500;
+    font-family: "Roboto", sans-serif;
+    color: black;
+    margin: 0px; }
+    footer a i {
+      font-size: 20px; }
 
 /*# sourceMappingURL=styles.css.map */
